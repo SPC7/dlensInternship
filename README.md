@@ -21,7 +21,7 @@ This idea led eventually to the discovery of the Monte Carlo Simulation which wo
 
 The next idea was to apply this model to a stock portfolio:
 
-  The idea is to use Cholesky decomposition in order to evaluate the portfolio of each day of the specified time period and taking a cumulative product of the daily returns.
+  The idea is to use Cholesky decomposition in order to evaluate the value portfolio of each day over the specified time period by taking a cumulative product of the daily returns.
 
 What is the Cholesky Decomposition: https://www.sciencedirect.com/topics/engineering/cholesky-decomposition
 
