@@ -32,10 +32,10 @@ What is the Cholesky Decomposition: https://www.sciencedirect.com/topics/enginee
   
 Links Used:
   
-*https://www.investopedia.com/terms/c/conditional_value_at_risk.asp
-*https://www.investopedia.com/terms/a/autocorrelation.asp
-*https://rosettacode.org/wiki/Cholesky_decomposition
-*https://gist.github.com/Mistobaan/555b020c58282451ec658be19da4c4e2
-*https://workflowy.com/
+* https://www.investopedia.com/terms/c/conditional_value_at_risk.asp
+* https://www.investopedia.com/terms/a/autocorrelation.asp
+* https://rosettacode.org/wiki/Cholesky_decomposition
+* https://gist.github.com/Mistobaan/555b020c58282451ec658be19da4c4e2
+* https://workflowy.com/
 
 
