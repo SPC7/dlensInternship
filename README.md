@@ -1,7 +1,8 @@
 # Decision Lens Intership 2021
+
 * [Stock Project](StockProject): Monte Carlo Simulation, Volume, Market Cap and EMA
 
-  The main idea of this paper, as well as the project, is to explore the use of interactive python tools in order to draw interesting correlations as well as insights into data sets. The project first began as exploratory research into the collecting, sorting, and manipulation of data sets using python. The libraries which were most commonly used in this project were numpy, pandas, matplotlib, as well as others. These tools allow for data sets to be visualized more clearly and concisely, the built-in functions within these libraries are what drive the research and developnent path of the project.
+The main idea of this paper, as well as the project, is to explore the use of interactive python tools in order to draw interesting correlations as well as insights into data sets. The project first began as exploratory research into the collecting, sorting, and manipulation of data sets using python. The libraries which were most commonly used in this project were numpy, pandas, matplotlib, as well as others. These tools allow for data sets to be visualized more clearly and concisely, the built-in functions within these libraries are what drive the research and developnent path of the project.
 
   After conversations with others and personal exploration, an idea was set forward to look into analyzing stock market data within python. From here the project moves into plotting and charting the basics of stock data: close/open prices, daily/monthly/etc. Average price, Volume, Market Cap, etc. After creating a birds-eye-view of the data at hand, it was time the project evolved beyond descriptive summaries of data. 
 
@@ -27,3 +28,14 @@ What is the Cholesky Decomposition: https://www.sciencedirect.com/topics/enginee
   The program then takes any stock or list of stocks which you would like to analyze and runs the simulation on them. The findings are interested especially when you look into Value at Risk. The values returned from the simulation will show you the taking a bunch of uncorrelated data from the normal distribution and correlating the data with the covariance matrix through the use of the lower triangle of the Cholesky decomposition.
 
   The last thing calaculation at right after the Monte Carlo simulation was value at risk (VaR) as well as (CVaR). VaR is the measure of risk of loss on an investment, in the case here, the VaR will estimate how much my portfolio might lose, given a certain probability and time frame.  CVaR addresses what VaR does not. VaR may not be able to get the full picture of the risk associated with the the investment, therefore, CVaR estimates how much an investment may lose under the circumstance ethe VaR threshold is broken.
+  
+  
+Links Used:
+  
+*https://www.investopedia.com/terms/c/conditional_value_at_risk.asp
+*https://www.investopedia.com/terms/a/autocorrelation.asp
+*https://rosettacode.org/wiki/Cholesky_decomposition
+*https://gist.github.com/Mistobaan/555b020c58282451ec658be19da4c4e2
+*https://workflowy.com/
+
+
