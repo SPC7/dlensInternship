@@ -1,6 +1,6 @@
 # Decision Lens Intership 2021
 
-* [Stock Project](StockProject): Monte Carlo Simulation, Volume, Market Cap and EMA
+* [Stock Project](Stock Project): Monte Carlo Simulation, Volume, Market Cap and EMA
 
 The main idea of this paper, as well as the project, is to explore the use of interactive python tools in order to draw interesting correlations as well as insights into data sets. The project begins with plotting and charting the basics of stock data: close/open prices, daily/monthly/etc. Average price, Volume, Market Cap, etc. Candlestick charts are also available and editable. After creating a birds-eye-view of the data at hand, it was time the project evolved beyond descriptive summaries of data. 
 
